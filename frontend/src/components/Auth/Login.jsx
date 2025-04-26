@@ -98,7 +98,6 @@ const Login = () => {
         <div className="banner">
           <img src="/login.png" alt="login" />
         </div>
-        <div> Created By BharathS-web</div>
       </section>
     </>
   );
