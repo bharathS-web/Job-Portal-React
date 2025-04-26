@@ -9,6 +9,9 @@ import axios from "axios";
 import toast from "react-hot-toast";
 import { Context } from "../../main";
 
+const backendUrl = import.meta.env.VITE_BACKEND_URL;
+
+
 const Register = () => {
   const [email, setEmail] = useState("");
   const [name, setName] = useState("");
@@ -22,7 +25,7 @@ const Register = () => {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        "http://localhost:4000/api/v1/user/register",
+        `${backendUrl}/api/v1/user/register`,
         { name, phone, email, role, password },
         {
           headers: {
