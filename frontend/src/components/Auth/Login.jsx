@@ -50,6 +50,8 @@ const Login = () => {
           <div className="header">
             <img src="/careerconnect-black.png" alt="logo" />
             <h3>Login to your account</h3>
+            <h5>Job Seeker temp temp</h5>
+            <h5>Employer   demo demo</h5>
            
           </div>
           <form>
