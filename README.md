@@ -1,6 +1,6 @@
 # Job Portal
 
-A full-stack web application connecting job seekers with employers, built with Node.js, React, MongoDB, and Cloudinary.
+A full-stack web application connecting job seekers with employers, built with Node.js, React, MongoDB, and Cloudinary. This platform bridges the gap between talent and opportunity with intuitive interfaces for both sides of the hiring process. Job seekers can create profiles, browse listings, and track applications, while employers can post opportunities, filter candidates, and manage recruitment workflows. Built with modern technologies for optimal performance and user experience.
 
 ![Job Portal Banner](https://raw.githubusercontent.com/your-username/job-portal/main/banner.png)
 
@@ -47,7 +47,7 @@ Before you begin, ensure you have:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/job-portal.git
+git clone https://github.com/bharathS-web/Job-Portal-React.git
 cd job-portal
 ```
 
@@ -81,6 +81,10 @@ cd job-portal
    ```bash
    npm start
    ```
+   or
+   ```bash
+   node server.js
+   ```
 
 ### Frontend Setup
 
@@ -105,11 +109,10 @@ cd job-portal
    ```
 
 ## 🌐 Deployment
-
 The application is deployed using Render:
 
-- **Frontend**: [https://job-portal-o1dw.onrender.com](https://job-portal-o1dw.onrender.com)
-- **Backend**: [https://job-portal-react-6s4z.onrender.com](https://job-portal-react-6s4z.onrender.com)
+- **Frontend**: [Visit Web](https://job-portal-o1dw.onrender.com)
+- **Backend**: [Server](https://job-portal-react-6s4z.onrender.com)
 
 ## 🔐 Security
 
@@ -117,12 +120,6 @@ The application is deployed using Render:
 - Environment variables for sensitive information
 - Secure file uploads via Cloudinary
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/job-portal/main/screenshots/home.png" alt="Home Page" width="45%">
-  <img src="https://raw.githubusercontent.com/your-username/job-portal/main/screenshots/jobs.png" alt="Jobs Page" width="45%">
-</div>
 
 ## 🗂️ Project Structure
 
@@ -168,8 +165,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/)
 - [Node.js](https://nodejs.org/)
 
-## 📬 Contact
 
-Your Name - your-email@example.com
-
-Project Link: [https://github.com/your-username/job-portal](https://github.com/your-username/job-portal)
+Project Link: [https://github.com/bharathS-web/Job-Portal-React](https://github.com/bharathS-web/Job-Portal-React)
