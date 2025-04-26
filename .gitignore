@@ -1,0 +1,21 @@
+.env
+env
+backend\.env
+
+
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore build output
+/dist
+/build
