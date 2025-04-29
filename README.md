@@ -2,7 +2,7 @@
 
 A full-stack web application connecting job seekers with employers, built with Node.js, React, MongoDB, and Cloudinary. This platform bridges the gap between talent and opportunity with intuitive interfaces for both sides of the hiring process. Job seekers can create profiles, browse listings, and track applications, while employers can post opportunities, filter candidates, and manage recruitment workflows. Built with modern technologies for optimal performance and user experience.
 
-![Job Portal Banner](https://raw.githubusercontent.com/your-username/job-portal/main/banner.png)
+![Job Portal Banner](https://raw.githubusercontent.com/bharathS-web/Job-Portal-React/main/banner.png)
 
 ## 🚀 Features
 
@@ -31,7 +31,7 @@ A full-stack web application connecting job seekers with employers, built with N
 - **React** - UI library
 - **Vite** - Build tool
 - **React Router** - Navigation
-- **Tailwind CSS** (or other UI framework)
+- **Tailwind CSS** - Styling
 
 ## 📋 Prerequisites
 
